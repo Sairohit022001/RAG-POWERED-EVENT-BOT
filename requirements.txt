@@ -1,0 +1,11 @@
+streamlit
+
+openai
+
+langchain
+
+pdfplumber
+
+faiss-cpu
+
+pyngrok
