@@ -9,3 +9,7 @@ transformers==4.40.1
 torch==2.3.0
 
 pdfplumber
+scikit-learn
+sentence-transformers
+pandas
+numpy
