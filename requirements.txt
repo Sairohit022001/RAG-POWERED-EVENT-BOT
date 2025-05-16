@@ -1,8 +1,27 @@
-streamlit
+streamlit==1.33.0
 
-openai
+langchain==0.1.14
 
-langchain
+openai==1.23.2
+
+tiktoken==0.5.1
+
+
+faiss-cpu==1.7.4
+
+
+
+pypdf==3.17.4
+
+python-dotenv==1.0.1
+
+transformers==4.40.1
+
+torch==2.3.0
+
+
+
+
 
 pdfplumber
 
@@ -14,7 +33,7 @@ scikit-learn
 
 sentence_transformers
 
-streamlit==1.45.1
+
 
 torch==2.7.0
 
@@ -24,7 +43,6 @@ sentence-transformers==4.1.0
 
 scikit-learn==1.6.1
 
-faiss-cpu==1.11.0
 
 huggingface_hub[hf_xet]==0.31.2
 
@@ -43,5 +61,4 @@ pyarrow==20.0.0
 
 langchain==0.3.25
 
-python-3.11
 
