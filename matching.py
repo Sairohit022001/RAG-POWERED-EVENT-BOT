@@ -17,6 +17,9 @@ def extract_text_from_pdf(file):
     return text
 
 def show_matching():
+    
+    if "resumes" not in st.session_state:
+    st.session_state.resumes = {}
     st.sidebar.header("👥 Participant Matching Engine (Resume-Based)")
 
     uploaded_file = st.file_uploader("Upload your resume (PDF only)", type=["pdf"])
