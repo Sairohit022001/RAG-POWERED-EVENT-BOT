@@ -11,3 +11,5 @@ faiss-cpu
 pyngrok
 
 scikit-learn
+
+sentence_transformers
